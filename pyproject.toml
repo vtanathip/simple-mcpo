@@ -4,4 +4,8 @@ version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
-dependencies = []
+dependencies = [
+    "mcp-server-fetch>=2025.4.7",
+    "mcp-server-time>=2025.9.25",
+    "mcpo>=0.0.19",
+]
